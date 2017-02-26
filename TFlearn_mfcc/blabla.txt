@@ -1,0 +1,27 @@
+
+
+## Le modèle
+
+Le réseaux à convolution (CNN) font parti des résaux les plus performant 
+pour la recconnaissance d'image. 
+Ici, un modèle de CNN à une dimension sera utilisé
+
+
+## Le jeu de données
+
+Contient 4528 enregistrements de parole représentés sous forme d'image 
+en niveaux de gris
+Onze émotions différentes seront traitées.
+Dimension 5x19
+
+
+## Entrainement du modèle avec le jeu de données grâce au outils Tensorflow et TFLearn
+
+Mise à jour des coefficients grâce à l'algorithme de Backword Propagation. 
+Apprentissage de xx minutes
+
+
+## Résultats
+
+" Courbe de cout et précision "
+Après un apprentissage de xx min le modèle obtient une précision d'environ 82%
